@@ -1,3 +1,6 @@
 local/
 orangehrm_data/
 orangehrm_mariadb/
+
+.DS_Store
+
